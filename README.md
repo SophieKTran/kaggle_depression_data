@@ -36,8 +36,5 @@ This notebook develops and evaluates models to predict mental health outcomes. K
 ## **How to Use**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/predicting-mental-health.git
+   git clone https://github.com/your-username/predicting-mental-health.git](https://github.com/SophieKTran/kaggle_depression_data.git
 
-cd predicting-mental-health
-pip install -r requirements.txt
-jupyter notebook
